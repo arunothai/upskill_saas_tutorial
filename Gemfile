@@ -45,6 +45,8 @@ group :development do
   gem 'spring-watcher-listen', '2.0.0'
 end
 
+#Use Twitter Bootstrtap library for front-end UI and layout
+gem 'bootstrap-sass', '3.3.7'
 
 group :production do
   # Use the PostgreSQL gem for Heroku production servers
